@@ -1,5 +1,3 @@
-//LP3 Group C Assignment 4
-//Cedrick Andrade COBA006
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.6;
 contract Student_management
