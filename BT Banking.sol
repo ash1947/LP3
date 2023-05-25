@@ -1,5 +1,3 @@
-//LP3 Group C Assignment 3 
-//Cedrick Andrade COBA006
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.6;
 contract banking
